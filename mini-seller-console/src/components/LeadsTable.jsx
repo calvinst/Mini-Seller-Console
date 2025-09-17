@@ -1,9 +1,18 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 
 export default function LeadsTable({ leads, onSelect }) {
-  const [search, setSearch] = useState("");
-  const [statusFilter, setStatusFilter] = useState("");
-  const [sortDesc, setSortDesc] = useState(true);
+
+  // Initialize filters from localStorage, if available
+  const [search, setSearch] = useState(() => localStorage.getItem("search") || "");
+  const [statusFilter, setStatusFilter] = useState(() => localStorage.getItem("statusFilter") || "");
+  const [sortDesc, setSortDesc] = useState(() => JSON.parse(localStorage.getItem("sortDesc") || "true"));
+
+  // Save filters to localStorage whenever they change
+  useEffect(() => {
+    localStorage.setItem("search", search);
+    localStorage.setItem("statusFilter", statusFilter);
+    localStorage.setItem("sortDesc", JSON.stringify(sortDesc));
+  }, [search, statusFilter, sortDesc]);
 
   const filtered = useMemo(() => {
     return leads

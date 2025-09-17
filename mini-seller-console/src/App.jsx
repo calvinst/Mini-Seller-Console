@@ -10,6 +10,7 @@ export default function App() {
   const [opps, setOpps] = useState([]);
   const [showLeads, setShowLeads] = useState(true);
   const [showOpps, setShowOpps] = useState(true);
+  
 
   useEffect(() => {
     // simulate loading
