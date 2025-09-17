@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "Kevin Brown",
+    "company": "AutoDrive",
+    "email": "kevin.brown@autodrive.com",
+    "source": "Event",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": 2,
+    "name": "Fernanda Costa",
+    "company": "GreenWorld",
+    "email": "fernanda.costa@greenworld.com",
+    "source": "Event",
+    "score": 97,
+    "status": "qualified"
+  },
+  {
+    "id": 3,
+    "name": "Igor Ferreira",
+    "company": "NextGen",
+    "email": "igor.ferreira@nextgen.com",
+    "source": "Event",
+    "score": 67,
+    "status": "qualified"
+  },
+  {
+    "id": 4,
+    "name": "Igor Ferreira",
+    "company": "MediaX",
+    "email": "igor.ferreira@mediax.com",
+    "source": "Referral",
+    "score": 71,
+    "status": "qualified"
+  },
+  {
+    "id": 5,
+    "name": "Julia Pereira",
+    "company": "GreenWorld",
+    "email": "julia.pereira@greenworld.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": 6,
+    "name": "Bruno Souza",
+    "company": "BuildIt",
+    "email": "bruno.souza@buildit.com",
+    "source": "Ad",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": 7,
+    "name": "Alice Johnson",
+    "company": "BrightEdu",
+    "email": "alice.johnson@brightedu.com",
+    "source": "Event",
+    "score": 57,
+    "status": "contacted"
+  },
+  {
+    "id": 8,
+    "name": "Bruno Souza",
+    "company": "GreenWorld",
+    "email": "bruno.souza@greenworld.com",
+    "source": "Event",
+    "score": 99,
+    "status": "new"
+  },
+  {
+    "id": 9,
+    "name": "Marcos Almeida",
+    "company": "FinTrack",
+    "email": "marcos.almeida@fintrack.com",
+    "source": "Ad",
+    "score": 71,
+    "status": "qualified"
+  },
+  {
+    "id": 10,
+    "name": "Oscar Silva",
+    "company": "SmartFinance",
+    "email": "oscar.silva@smartfinance.com",
+    "source": "Referral",
+    "score": 71,
+    "status": "qualified"
+  },
+  {
+    "id": 11,
+    "name": "Carla Mendes",
+    "company": "NextGen",
+    "email": "carla.mendes@nextgen.com",
+    "source": "Referral",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": 12,
+    "name": "Laura Martins",
+    "company": "FinTrack",
+    "email": "laura.martins@fintrack.com",
+    "source": "Referral",
+    "score": 99,
+    "status": "qualified"
+  },
+  {
+    "id": 13,
+    "name": "Bruno Souza",
+    "company": "NextGen",
+    "email": "bruno.souza@nextgen.com",
+    "source": "Referral",
+    "score": 59,
+    "status": "qualified"
+  },
+  {
+    "id": 14,
+    "name": "Kevin Brown",
+    "company": "BioSolutions",
+    "email": "kevin.brown@biosolutions.com",
+    "source": "Referral",
+    "score": 77,
+    "status": "qualified"
+  },
+  {
+    "id": 15,
+    "name": "Fernanda Costa",
+    "company": "NextGen",
+    "email": "fernanda.costa@nextgen.com",
+    "source": "Referral",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": 16,
+    "name": "Kevin Brown",
+    "company": "BrightEdu",
+    "email": "kevin.brown@brightedu.com",
+    "source": "Event",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": 17,
+    "name": "Bruno Souza",
+    "company": "BrightEdu",
+    "email": "bruno.souza@brightedu.com",
+    "source": "Web",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": 18,
+    "name": "Natalia Torres",
+    "company": "GreenWorld",
+    "email": "natalia.torres@greenworld.com",
+    "source": "Event",
+    "score": 62,
+    "status": "contacted"
+  },
+  {
+    "id": 19,
+    "name": "Oscar Silva",
+    "company": "Inova Ltda",
+    "email": "oscar.silva@inovaltda.com",
+    "source": "Web",
+    "score": 71,
+    "status": "contacted"
+  },
+  {
+    "id": 20,
+    "name": "Laura Martins",
+    "company": "HealthFirst",
+    "email": "laura.martins@healthfirst.com",
+    "source": "Event",
+    "score": 99,
+    "status": "qualified"
+  },
+  {
+    "id": 21,
+    "name": "Natalia Torres",
+    "company": "BuildIt",
+    "email": "natalia.torres@buildit.com",
+    "source": "Referral",
+    "score": 76,
+    "status": "qualified"
+  },
+  {
+    "id": 22,
+    "name": "Fernanda Costa",
+    "company": "BioSolutions",
+    "email": "fernanda.costa@biosolutions.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "qualified"
+  },
+  {
+    "id": 23,
+    "name": "Kevin Brown",
+    "company": "HealthFirst",
+    "email": "kevin.brown@healthfirst.com",
+    "source": "Web",
+    "score": 53,
+    "status": "new"
+  },
+  {
+    "id": 24,
+    "name": "Fernanda Costa",
+    "company": "Inova Ltda",
+    "email": "fernanda.costa@inovaltda.com",
+    "source": "Web",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": 25,
+    "name": "Laura Martins",
+    "company": "TechCorp",
+    "email": "laura.martins@techcorp.com",
+    "source": "Ad",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": 26,
+    "name": "Bruno Souza",
+    "company": "GreenWorld",
+    "email": "bruno.souza@greenworld.com",
+    "source": "Referral",
+    "score": 55,
+    "status": "contacted"
+  },
+  {
+    "id": 27,
+    "name": "Carla Mendes",
+    "company": "TechCorp",
+    "email": "carla.mendes@techcorp.com",
+    "source": "Web",
+    "score": 74,
+    "status": "qualified"
+  },
+  {
+    "id": 28,
+    "name": "Kevin Brown",
+    "company": "HealthFirst",
+    "email": "kevin.brown@healthfirst.com",
+    "source": "Event",
+    "score": 58,
+    "status": "contacted"
+  },
+  {
+    "id": 29,
+    "name": "Marcos Almeida",
+    "company": "GreenWorld",
+    "email": "marcos.almeida@greenworld.com",
+    "source": "Event",
+    "score": 63,
+    "status": "new"
+  },
+  {
+    "id": 30,
+    "name": "Carla Mendes",
+    "company": "GreenWorld",
+    "email": "carla.mendes@greenworld.com",
+    "source": "Ad",
+    "score": 60,
+    "status": "new"
+  },
+  {
+    "id": 31,
+    "name": "Eduardo Lima",
+    "company": "SmartFinance",
+    "email": "eduardo.lima@smartfinance.com",
+    "source": "Referral",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": 32,
+    "name": "Oscar Silva",
+    "company": "TechCorp",
+    "email": "oscar.silva@techcorp.com",
+    "source": "Ad",
+    "score": 63,
+    "status": "new"
+  },
+  {
+    "id": 33,
+    "name": "David Lee",
+    "company": "BioSolutions",
+    "email": "david.lee@biosolutions.com",
+    "source": "Web",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": 34,
+    "name": "Natalia Torres",
+    "company": "TechCorp",
+    "email": "natalia.torres@techcorp.com",
+    "source": "Ad",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": 35,
+    "name": "Oscar Silva",
+    "company": "HealthFirst",
+    "email": "oscar.silva@healthfirst.com",
+    "source": "Web",
+    "score": 58,
+    "status": "qualified"
+  },
+  {
+    "id": 36,
+    "name": "Julia Pereira",
+    "company": "HealthFirst",
+    "email": "julia.pereira@healthfirst.com",
+    "source": "Referral",
+    "score": 52,
+    "status": "contacted"
+  },
+  {
+    "id": 37,
+    "name": "Kevin Brown",
+    "company": "AutoDrive",
+    "email": "kevin.brown@autodrive.com",
+    "source": "Referral",
+    "score": 64,
+    "status": "new"
+  },
+  {
+    "id": 38,
+    "name": "Natalia Torres",
+    "company": "TechCorp",
+    "email": "natalia.torres@techcorp.com",
+    "source": "Event",
+    "score": 100,
+    "status": "new"
+  },
+  {
+    "id": 39,
+    "name": "Marcos Almeida",
+    "company": "FinTrack",
+    "email": "marcos.almeida@fintrack.com",
+    "source": "Web",
+    "score": 89,
+    "status": "contacted"
+  },
+  {
+    "id": 40,
+    "name": "Alice Johnson",
+    "company": "MediaX",
+    "email": "alice.johnson@mediax.com",
+    "source": "Web",
+    "score": 91,
+    "status": "new"
+  },
+  {
+    "id": 41,
+    "name": "Igor Ferreira",
+    "company": "MediaX",
+    "email": "igor.ferreira@mediax.com",
+    "source": "Web",
+    "score": 100,
+    "status": "new"
+  },
+  {
+    "id": 42,
+    "name": "Carla Mendes",
+    "company": "BuildIt",
+    "email": "carla.mendes@buildit.com",
+    "source": "Web",
+    "score": 99,
+    "status": "qualified"
+  },
+  {
+    "id": 43,
+    "name": "Alice Johnson",
+    "company": "FinTrack",
+    "email": "alice.johnson@fintrack.com",
+    "source": "Event",
+    "score": 91,
+    "status": "new"
+  },
+  {
+    "id": 44,
+    "name": "Bruno Souza",
+    "company": "SmartFinance",
+    "email": "bruno.souza@smartfinance.com",
+    "source": "Event",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": 45,
+    "name": "Kevin Brown",
+    "company": "NextGen",
+    "email": "kevin.brown@nextgen.com",
+    "source": "Event",
+    "score": 93,
+    "status": "contacted"
+  },
+  {
+    "id": 46,
+    "name": "Laura Martins",
+    "company": "AutoDrive",
+    "email": "laura.martins@autodrive.com",
+    "source": "Event",
+    "score": 97,
+    "status": "new"
+  },
+  {
+    "id": 47,
+    "name": "Kevin Brown",
+    "company": "NextGen",
+    "email": "kevin.brown@nextgen.com",
+    "source": "Ad",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": 48,
+    "name": "Eduardo Lima",
+    "company": "Inova Ltda",
+    "email": "eduardo.lima@inovaltda.com",
+    "source": "Web",
+    "score": 58,
+    "status": "contacted"
+  },
+  {
+    "id": 49,
+    "name": "Helena Rocha",
+    "company": "Inova Ltda",
+    "email": "helena.rocha@inovaltda.com",
+    "source": "Event",
+    "score": 67,
+    "status": "contacted"
+  },
+  {
+    "id": 50,
+    "name": "Laura Martins",
+    "company": "BioSolutions",
+    "email": "laura.martins@biosolutions.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": 51,
+    "name": "Igor Ferreira",
+    "company": "HealthPlus",
+    "email": "igor.ferreira@healthplus.com",
+    "source": "Referral",
+    "score": 51,
+    "status": "qualified"
+  },
+  {
+    "id": 52,
+    "name": "Alice Johnson",
+    "company": "SmartFinance",
+    "email": "alice.johnson@smartfinance.com",
+    "source": "Ad",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": 53,
+    "name": "Helena Rocha",
+    "company": "NextGen",
+    "email": "helena.rocha@nextgen.com",
+    "source": "Referral",
+    "score": 72,
+    "status": "qualified"
+  },
+  {
+    "id": 54,
+    "name": "David Lee",
+    "company": "FinTrack",
+    "email": "david.lee@fintrack.com",
+    "source": "Web",
+    "score": 67,
+    "status": "qualified"
+  },
+  {
+    "id": 55,
+    "name": "Natalia Torres",
+    "company": "NextGen",
+    "email": "natalia.torres@nextgen.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "contacted"
+  },
+  {
+    "id": 56,
+    "name": "Fernanda Costa",
+    "company": "TechCorp",
+    "email": "fernanda.costa@techcorp.com",
+    "source": "Web",
+    "score": 83,
+    "status": "qualified"
+  },
+  {
+    "id": 57,
+    "name": "Fernanda Costa",
+    "company": "GlobalTech",
+    "email": "fernanda.costa@globaltech.com",
+    "source": "Ad",
+    "score": 75,
+    "status": "qualified"
+  },
+  {
+    "id": 58,
+    "name": "Bruno Souza",
+    "company": "HealthFirst",
+    "email": "bruno.souza@healthfirst.com",
+    "source": "Web",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": 59,
+    "name": "Marcos Almeida",
+    "company": "BuildIt",
+    "email": "marcos.almeida@buildit.com",
+    "source": "Ad",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": 60,
+    "name": "Oscar Silva",
+    "company": "BrightEdu",
+    "email": "oscar.silva@brightedu.com",
+    "source": "Web",
+    "score": 52,
+    "status": "qualified"
+  },
+  {
+    "id": 61,
+    "name": "Marcos Almeida",
+    "company": "BuildIt",
+    "email": "marcos.almeida@buildit.com",
+    "source": "Ad",
+    "score": 98,
+    "status": "qualified"
+  },
+  {
+    "id": 62,
+    "name": "Carla Mendes",
+    "company": "BrightEdu",
+    "email": "carla.mendes@brightedu.com",
+    "source": "Ad",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": 63,
+    "name": "Carla Mendes",
+    "company": "AutoDrive",
+    "email": "carla.mendes@autodrive.com",
+    "source": "Ad",
+    "score": 93,
+    "status": "contacted"
+  },
+  {
+    "id": 64,
+    "name": "George Smith",
+    "company": "TechCorp",
+    "email": "george.smith@techcorp.com",
+    "source": "Event",
+    "score": 95,
+    "status": "contacted"
+  },
+  {
+    "id": 65,
+    "name": "David Lee",
+    "company": "FinTrack",
+    "email": "david.lee@fintrack.com",
+    "source": "Web",
+    "score": 66,
+    "status": "contacted"
+  },
+  {
+    "id": 66,
+    "name": "David Lee",
+    "company": "FinTrack",
+    "email": "david.lee@fintrack.com",
+    "source": "Event",
+    "score": 99,
+    "status": "qualified"
+  },
+  {
+    "id": 67,
+    "name": "David Lee",
+    "company": "EduGames",
+    "email": "david.lee@edugames.com",
+    "source": "Event",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": 68,
+    "name": "Bruno Souza",
+    "company": "HealthFirst",
+    "email": "bruno.souza@healthfirst.com",
+    "source": "Ad",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": 69,
+    "name": "Helena Rocha",
+    "company": "AutoDrive",
+    "email": "helena.rocha@autodrive.com",
+    "source": "Web",
+    "score": 59,
+    "status": "qualified"
+  },
+  {
+    "id": 70,
+    "name": "Alice Johnson",
+    "company": "SmartFinance",
+    "email": "alice.johnson@smartfinance.com",
+    "source": "Event",
+    "score": 98,
+    "status": "contacted"
+  },
+  {
+    "id": 71,
+    "name": "David Lee",
+    "company": "GlobalTech",
+    "email": "david.lee@globaltech.com",
+    "source": "Event",
+    "score": 72,
+    "status": "new"
+  },
+  {
+    "id": 72,
+    "name": "Helena Rocha",
+    "company": "FinTrack",
+    "email": "helena.rocha@fintrack.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "new"
+  },
+  {
+    "id": 73,
+    "name": "Igor Ferreira",
+    "company": "NextGen",
+    "email": "igor.ferreira@nextgen.com",
+    "source": "Ad",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": 74,
+    "name": "Kevin Brown",
+    "company": "GreenWorld",
+    "email": "kevin.brown@greenworld.com",
+    "source": "Referral",
+    "score": 71,
+    "status": "qualified"
+  },
+  {
+    "id": 75,
+    "name": "Julia Pereira",
+    "company": "EduGames",
+    "email": "julia.pereira@edugames.com",
+    "source": "Event",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": 76,
+    "name": "David Lee",
+    "company": "EduGames",
+    "email": "david.lee@edugames.com",
+    "source": "Ad",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": 77,
+    "name": "Julia Pereira",
+    "company": "FinTrack",
+    "email": "julia.pereira@fintrack.com",
+    "source": "Ad",
+    "score": 65,
+    "status": "qualified"
+  },
+  {
+    "id": 78,
+    "name": "Fernanda Costa",
+    "company": "GlobalTech",
+    "email": "fernanda.costa@globaltech.com",
+    "source": "Web",
+    "score": 66,
+    "status": "contacted"
+  },
+  {
+    "id": 79,
+    "name": "George Smith",
+    "company": "MediaX",
+    "email": "george.smith@mediax.com",
+    "source": "Web",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": 80,
+    "name": "Kevin Brown",
+    "company": "SmartFinance",
+    "email": "kevin.brown@smartfinance.com",
+    "source": "Event",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": 81,
+    "name": "David Lee",
+    "company": "AutoDrive",
+    "email": "david.lee@autodrive.com",
+    "source": "Web",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": 82,
+    "name": "Fernanda Costa",
+    "company": "Inova Ltda",
+    "email": "fernanda.costa@inovaltda.com",
+    "source": "Web",
+    "score": 52,
+    "status": "contacted"
+  },
+  {
+    "id": 83,
+    "name": "Igor Ferreira",
+    "company": "TechCorp",
+    "email": "igor.ferreira@techcorp.com",
+    "source": "Referral",
+    "score": 54,
+    "status": "contacted"
+  },
+  {
+    "id": 84,
+    "name": "Marcos Almeida",
+    "company": "SmartFinance",
+    "email": "marcos.almeida@smartfinance.com",
+    "source": "Web",
+    "score": 75,
+    "status": "new"
+  },
+  {
+    "id": 85,
+    "name": "Alice Johnson",
+    "company": "BrightEdu",
+    "email": "alice.johnson@brightedu.com",
+    "source": "Referral",
+    "score": 100,
+    "status": "new"
+  },
+  {
+    "id": 86,
+    "name": "Carla Mendes",
+    "company": "GreenWorld",
+    "email": "carla.mendes@greenworld.com",
+    "source": "Referral",
+    "score": 97,
+    "status": "contacted"
+  },
+  {
+    "id": 87,
+    "name": "Alice Johnson",
+    "company": "Inova Ltda",
+    "email": "alice.johnson@inovaltda.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": 88,
+    "name": "Natalia Torres",
+    "company": "GlobalTech",
+    "email": "natalia.torres@globaltech.com",
+    "source": "Ad",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": 89,
+    "name": "Laura Martins",
+    "company": "BioSolutions",
+    "email": "laura.martins@biosolutions.com",
+    "source": "Event",
+    "score": 51,
+    "status": "new"
+  },
+  {
+    "id": 90,
+    "name": "Natalia Torres",
+    "company": "Inova Ltda",
+    "email": "natalia.torres@inovaltda.com",
+    "source": "Ad",
+    "score": 92,
+    "status": "new"
+  },
+  {
+    "id": 91,
+    "name": "Eduardo Lima",
+    "company": "NextGen",
+    "email": "eduardo.lima@nextgen.com",
+    "source": "Ad",
+    "score": 57,
+    "status": "contacted"
+  },
+  {
+    "id": 92,
+    "name": "Marcos Almeida",
+    "company": "SmartFinance",
+    "email": "marcos.almeida@smartfinance.com",
+    "source": "Web",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": 93,
+    "name": "Oscar Silva",
+    "company": "SmartFinance",
+    "email": "oscar.silva@smartfinance.com",
+    "source": "Event",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": 94,
+    "name": "Helena Rocha",
+    "company": "MediaX",
+    "email": "helena.rocha@mediax.com",
+    "source": "Event",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": 95,
+    "name": "Marcos Almeida",
+    "company": "Inova Ltda",
+    "email": "marcos.almeida@inovaltda.com",
+    "source": "Web",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": 96,
+    "name": "Igor Ferreira",
+    "company": "MediaX",
+    "email": "igor.ferreira@mediax.com",
+    "source": "Web",
+    "score": 94,
+    "status": "new"
+  },
+  {
+    "id": 97,
+    "name": "Julia Pereira",
+    "company": "GreenWorld",
+    "email": "julia.pereira@greenworld.com",
+    "source": "Web",
+    "score": 96,
+    "status": "qualified"
+  },
+  {
+    "id": 98,
+    "name": "Natalia Torres",
+    "company": "NextGen",
+    "email": "natalia.torres@nextgen.com",
+    "source": "Web",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": 99,
+    "name": "Igor Ferreira",
+    "company": "AutoDrive",
+    "email": "igor.ferreira@autodrive.com",
+    "source": "Event",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": 100,
+    "name": "Kevin Brown",
+    "company": "HealthFirst",
+    "email": "kevin.brown@healthfirst.com",
+    "source": "Ad",
+    "score": 60,
+    "status": "contacted"
+  }
+]
